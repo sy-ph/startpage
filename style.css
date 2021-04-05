@@ -1,0 +1,44 @@
+html {
+	background-color: #313131;
+	font-family:Lucida Console,Comic Sans MS;
+}
+
+body {
+	position:relative;
+	height: 900px;
+	font-size:20px;
+}
+
+a {
+	text-decoration: none;
+	color:#cccccc;
+}
+
+ul {
+	list-style-type:none;
+}
+
+li {
+
+}
+.decoration{
+	color:gold;
+}
+.container {
+	width:550px;
+	background-color:#212121;
+	margin:0;
+	position:absolute;
+	top:50%;
+	left:50%;
+	transform:translate(-50%,-50%);
+
+}
+
+.links {
+	margin:20px;
+}
+
+img {
+	float: left;
+}
