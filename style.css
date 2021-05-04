@@ -26,6 +26,7 @@ li {
 }
 .container {
 	width:550px;
+	height:50%;
 	background-color:#212121;
 	margin:0;
 	position:absolute;
