@@ -28,7 +28,7 @@ li {
 .container {
 	border-radius:15px;
 	width:550px;
-	background-color:#212121;
+	background-color:#2e1643;
 	margin:0;
 	position:absolute;
 	top:50%;
@@ -43,4 +43,5 @@ li {
 
 img {
 	float: left;
+	border-radius:15px;
 }
