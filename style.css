@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata&display=swap');
 html {
 	background-color: #313131;
-	font-family:Lucida Console,Arial;
+	font-family:Inconsolata,Arial;
 }
 
 body {
@@ -25,6 +26,7 @@ li {
 	color:gold;
 }
 .container {
+	border-radius:15px;
 	width:550px;
 	background-color:#212121;
 	margin:0;
